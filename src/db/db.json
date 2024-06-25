@@ -1,0 +1,120 @@
+{
+  "user": [
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "anil@123",
+      "id": "9ae7"
+    },
+    {
+      "id": "a82c",
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "peter@123"
+    },
+    {
+      "id": "507a",
+      "name": "bgfg",
+      "email": "vfrereg",
+      "password": "tgregre"
+    },
+    {
+      "id": "1f95",
+      "name": "sakshi",
+      "email": "sakshi@test.com",
+      "password": "sakshi@123"
+    },
+    {
+      "id": "4b72",
+      "name": "Tanu",
+      "email": "tanu@test.com",
+      "password": "tanu@123"
+    },
+    {
+      "id": "9427",
+      "name": "Ravi",
+      "email": "ravi@test.com",
+      "password": "ravi@123"
+    },
+    {
+      "id": "3a59",
+      "name": "Riya",
+      "email": "riya@test.com",
+      "password": "riya@123"
+    },
+    {
+      "id": "350e",
+      "name": "ritika",
+      "email": "ritika@test.com",
+      "password": "ritika@123"
+    },
+    {
+      "id": "8608",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "1be9",
+      "name": "pranita",
+      "email": "pranita@test.com",
+      "password": "pranita@123"
+    },
+    {
+      "id": "9ed3",
+      "name": "vishakha",
+      "email": "vishakha@test.com",
+      "password": "vishakha@123"
+    },
+    {
+      "id": "00aa",
+      "name": "ritu",
+      "email": "ritu@test.com",
+      "password": "ritu@123"
+    },
+    {
+      "id": "d63a",
+      "name": "Ram",
+      "email": "ram@test.com",
+      "password": "ram@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Noida sector 56",
+      "contact": "65789",
+      "id": "1"
+    },
+    {
+      "name": "Dominos",
+      "address": "Gurgaon ",
+      "contact": 22222,
+      "id": "2"
+    },
+    {
+      "name": "McDonald's",
+      "address": "Delhi ",
+      "contact": "889121",
+      "id": "eaf5"
+    },
+    {
+      "name": "Punjab Grill restro",
+      "address": "indore",
+      "contact": "41556",
+      "id": "9450"
+    },
+    {
+      "id": "f223",
+      "name": "Darzi Bar & kitchen",
+      "address": "Baner Rd, Pune",
+      "contact": "54445"
+    },
+    {
+      "id": "fe93",
+      "name": "Starbucks",
+      "address": "Indore",
+      "contact": "45511"
+    }
+  ]
+}
